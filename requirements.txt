@@ -3,4 +3,5 @@ google-generativeai==0.7.2
 ddgs
 newspaper4k==0.9.3.1
 lxml==5.2.2
+lxml_html_clean
 python-dotenv==1.0.1
